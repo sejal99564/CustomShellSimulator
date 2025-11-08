@@ -1,0 +1,18 @@
+Hello 
+in drive D is New Volume
+ Volume Serial Number is 8C47-8E6E
+
+ Directory of D:\CustomShell
+
+08-11-2025  15:35    <DIR>          .
+08-11-2025  14:40    <DIR>          .vscode
+08-11-2025  15:35    <DIR>          bin
+08-11-2025  14:06    <DIR>          build
+08-11-2025  14:14    <DIR>          include
+08-11-2025  15:35                 0 list.txt
+08-11-2025  14:18               485 Makefile
+08-11-2025  14:06    <DIR>          README.md
+08-11-2025  14:09    <DIR>          src
+08-11-2025  14:15    <DIR>          test
+               2 File(s)            485 bytes
+               8 Dir(s)  232,706,109,440 bytes free
