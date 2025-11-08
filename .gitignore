@@ -1,0 +1,17 @@
+# Ignore build and binary files
+bin/
+build/
+*.exe
+*.o
+*.obj
+*.pdb
+*.dll
+*.log
+*.zip
+
+# VS Code settings
+.vscode/
+
+# OS files
+Thumbs.db
+.DS_Store
